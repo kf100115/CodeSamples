@@ -1,3 +1,3 @@
 SELECT *
 FROM dbo.car
-WHERE model = 'Toyota'
+WHERE model = 'Toyota' AND type = 'brid'
